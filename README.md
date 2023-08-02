@@ -7,5 +7,5 @@ This internship project significantly contributes to the understanding of batter
 ## Files in the repository:
 * Internship_Report: Documentation of the work to follow the codes with ease.
 * Battery_Modelling: Contains the battery model implementation which is compared with the first occurence pulsed discharge cycle in battery-1 of the experiment.
-* Optimisation: Contains the optimisation of the above model for the same regime.
+* Optimization: Contains the optimisation of the above model for the same regime.
 * Deterioration_Modelling: Covers the application of the optimised model to multiple pulsed discharge regimes in battery-1, 2 and 3.
