@@ -9,3 +9,5 @@ This internship project significantly contributes to the understanding of batter
 * [Battery Modelling](./Codes/Battery_Modelling.ipynb): Contains the battery model implementation which is compared with the first occurence pulsed discharge cycle in battery-1 of the experiment.
 * [Optimization](./Codes/Optimization.ipynb): Contains the optimization of the above model for the same regime.
 * [Deterioration Modelling](./Codes/Deterioration_Modelling.ipynb): Covers the application of the optimised model to multiple pulsed discharge regimes in battery-1, 2 and 3.
+
+PS: I have added a License with the intention to recieve credits for replication/usage of the following source codes! Kindly reach out to me if have a possible extension in mind, I'd love to be involved in the same!
